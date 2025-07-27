@@ -20,7 +20,7 @@
 
 - 🔥 Passionate about bots, clean UIs & automation  
 - 💬 Skilled with `React`, `Node.js`, `Discord.js`, `Firebase`, `MongoDB`  
-- 🚀 Creator of [**BeatBot**](https://github.com/zenitsucodex/beatbot) — a top-tier Discord music bot  
+- 🚀 Creator of [**BeatBot**](https://getbeatbot.vercel.app) — a top-tier Discord music bot  
 - 🤖 Exploring AI, prompt engineering, and LLMs
 
 ---
