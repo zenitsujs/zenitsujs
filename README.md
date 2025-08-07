@@ -36,8 +36,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zenitsucodex&show_icons=true&theme=react&border_color=008fff&title_color=008fff" height="170px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zenitsucodex&layout=compact&theme=react&border_color=008fff&title_color=008fff" height="170px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=zenitsujs&show_icons=true&theme=react&border_color=008fff&title_color=008fff" height="170px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zenitsujs&layout=compact&theme=react&border_color=008fff&title_color=008fff" height="170px"/>
 </p>
 
 ---
